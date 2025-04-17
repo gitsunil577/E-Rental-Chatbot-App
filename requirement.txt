@@ -1,4 +1,4 @@
 streamlit
 langchain
-langchain_huggingface
 transformers
+git+https://github.com/langchain-ai/langchain-huggingface.git
